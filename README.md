@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 9th is the day in 1969 that Allegheny Airlines Flight 853 DC-9 collides in flight with a Piper PA-28 and crashes near Fairland, Indiana...!</i>  😉
+### 🎈 Hey!!😊.. You know, <i>September 9th is the day in 1969 that Allegheny Airlines Flight 853 DC-9 collides in flight with a Piper PA-28 and crashes near Fairland, Indiana...!</i>
