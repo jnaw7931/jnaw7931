@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 9th is the day in 1948 that Kim Il-sung declares the establishment of the Democratic People's Republic of Korea...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 9th is the day in 1993 that the Palestine Liberation Organization officially recognizes Israel as a legitimate state...!</i>
