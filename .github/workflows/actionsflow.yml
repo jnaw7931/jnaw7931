@@ -4,7 +4,7 @@
 #   #   - cron: "0 * * * *"
 #   push:
 #     branches:
-#       - main
+#       - master
 #   repository_dispatch:
 #   workflow_dispatch:
 #     inputs:
@@ -44,7 +44,7 @@ on:
     - cron: "0 * * * *"
   push:
     branches:
-      - main
+      - master
   repository_dispatch:
   workflow_dispatch:
     inputs:
@@ -102,10 +102,10 @@ jobs:
             
             # Try to pull and handle conflicts gracefully
             echo "Fetching latest changes..."
-            git fetch origin main
+            git fetch origin master
             
             # Check if we're behind the remote
-            BEHIND=$(git rev-list HEAD..origin/main --count)
+            BEHIND=$(git rev-list HEAD..origin/master --count)
             if [ "$BEHIND" -gt 0 ]; then
               echo "Local branch is $BEHIND commits behind. Attempting to sync..."
               
@@ -113,7 +113,7 @@ jobs:
               git stash push -m "Temporary stash for sync"
               
               # Pull the latest changes
-              git pull origin main --ff-only
+              git pull origin master --ff-only
               
               # Pop the stashed changes
               if git stash list | grep -q "Temporary stash for sync"; then
@@ -128,11 +128,11 @@ jobs:
             git commit -m "Update README with daily fact" || echo "No new changes to commit"
             
             # Push with force-with-lease for safety
-            if ! git push origin main --force-with-lease; then
+            if ! git push origin master --force-with-lease; then
               echo "Push failed, trying alternative approach..."
               # If push fails, try once more with a fresh pull
-              git pull origin main --rebase
-              git push origin main
+              git pull origin master --rebase
+              git push origin master
             fi
           else
             echo "No changes detected in README.md"
