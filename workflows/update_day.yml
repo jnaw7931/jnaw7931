@@ -1,0 +1,47 @@
+on:
+  script:
+    run: |
+      const fs = require('fs');
+
+      function updateReadme() {
+        const d = new Date();
+        let day = getDayName(d.getDay());
+        let curHr = d.getHours()
+
+        let message = "";
+
+        if (curHr < 12) {
+          message = "🌄 Beautiful Morning";
+        } else if (curHr < 18) {
+          message = "☕ Good Afternoon";
+        } else {
+          message = "🌆 Wonderful Evening";
+        }
+
+        fs.readFile('README.md', 'utf-8', (err, data) => {
+          if (err) throw err;
+
+          const updatedDayMd = data.replace(
+            /(?<=\<h2 align\=\"center\"\>)(.*)(?=\!\<\/h2\>)/gim,
+            `Happy ${day}` //`${message} and Happy ${day}`
+          );
+
+          console.log(`Today is ${day}`);
+
+          updateString(updatedDayMd);
+        });
+      }
+
+      function updateString(str) {
+        fs.writeFile('README.md', str, 'utf-8', (err) => {
+            if (err) throw err;
+            console.log('README line updated successfully!');
+        });
+      }
+
+      function getDayName(day) {
+        let days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+        return days[day];
+      };
+
+      updateReadme();

@@ -1,0 +1,45 @@
+on:
+  script:
+    run: |
+      const fs = require('fs');
+      const http = require('http');
+
+      function updateReadmeIdea() {
+        // Get today's date
+        const today = new Date();
+        const month = today.getMonth() + 1; // JS months are 0-based
+        const day = today.getDate();
+        const url = `http://numbersapi.com/${month}/${day}/date`;
+
+        http.get(url, (res) => {
+          res.setEncoding('utf8');
+          let body = '';
+          res.on('data', (data) => body += data);
+          res.on('end', () => {
+            // NumbersAPI returns plain text
+            let message = `<i>${body}..!</i>`;
+            console.log(message);
+
+            // Update README: replace the line starting with 'You know'
+            fs.readFile('README.md', 'utf-8', (err, data) => {
+              if (err) throw err;
+
+              const updateActivityMd = data.replace(
+                /(Hey!!😊\.\. You know,)(.*)( 😉)/gim,
+                `$1 ${message} $3`
+              );
+
+              updateString(updateActivityMd);
+            });
+          });
+        });
+      }
+
+      function updateString(str) {
+        fs.writeFile('README.md', str, 'utf-8', (err) => {
+            if (err) throw err;
+            console.log('README line updated successfully!');
+        });
+      }
+
+      updateReadmeIdea();
