@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 9th is the day in 1999 that the beginning of the Y2K bug, the debut of the Dreamcast, and the 1999 MTV Video Music Awards...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 9th is the day in 1776 that the Continental Congress officially names its new union of sovereign states the United States...!</i>
