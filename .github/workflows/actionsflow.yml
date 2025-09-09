@@ -93,46 +93,68 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
+          # Determine the default branch (master or main)
+          DEFAULT_BRANCH=$(git symbolic-ref refs/remotes/origin/HEAD | sed 's@^refs/remotes/origin/@@')
+          echo "Default branch: $DEFAULT_BRANCH"
+          
           # Check if there are any changes to commit
           if ! git diff --quiet HEAD -- README.md || ! git diff --cached --quiet HEAD -- README.md; then
             echo "Changes detected in README.md"
             
-            # Stage any changes first
-            git add README.md
+            # Clean up any previous stash
+            git stash clear || true
             
-            # Try to pull and handle conflicts gracefully
-            echo "Fetching latest changes..."
-            git fetch origin master
+            # Create a backup of our changes
+            cp README.md README.md.backup
             
-            # Check if we're behind the remote
-            BEHIND=$(git rev-list HEAD..origin/master --count)
-            if [ "$BEHIND" -gt 0 ]; then
-              echo "Local branch is $BEHIND commits behind. Attempting to sync..."
-              
-              # Stash current changes if any
-              git stash push -m "Temporary stash for sync"
-              
-              # Pull the latest changes
-              git pull origin master --ff-only
-              
-              # Pop the stashed changes
-              if git stash list | grep -q "Temporary stash for sync"; then
-                git stash pop
-              fi
-              
-              # Re-stage the changes after sync
+            # Fetch the latest state
+            git fetch origin $DEFAULT_BRANCH
+            
+            # Reset to the latest remote state
+            git reset --hard origin/$DEFAULT_BRANCH
+            
+            # Restore our changes
+            cp README.md.backup README.md
+            rm README.md.backup
+            
+            # Check if there are still changes after sync
+            if ! git diff --quiet HEAD -- README.md; then
               git add README.md
-            fi
-            
-            # Commit the changes
-            git commit -m "Update README with daily fact" || echo "No new changes to commit"
-            
-            # Push with force-with-lease for safety
-            if ! git push origin master --force-with-lease; then
-              echo "Push failed, trying alternative approach..."
-              # If push fails, try once more with a fresh pull
-              git pull origin master --rebase
-              git push origin master
+              git commit -m "Update README with daily fact"
+              
+              # Retry push with exponential backoff
+              for attempt in {1..5}; do
+                echo "Push attempt $attempt..."
+                if git push origin $DEFAULT_BRANCH; then
+                  echo "✅ Successfully pushed changes"
+                  exit 0
+                else
+                  echo "❌ Push failed, attempt $attempt of 5"
+                  if [ $attempt -lt 5 ]; then
+                    # Wait before retry (exponential backoff)
+                    sleep_time=$((2**attempt))
+                    echo "Waiting ${sleep_time} seconds before retry..."
+                    sleep $sleep_time
+                    
+                    # Fetch latest and reset
+                    git fetch origin $DEFAULT_BRANCH
+                    git reset --hard origin/$DEFAULT_BRANCH
+                    
+                    # Restore our changes again
+                    cp README.md.backup README.md 2>/dev/null || echo "Backup not found, using current changes"
+                    
+                    if ! git diff --quiet HEAD -- README.md; then
+                      git add README.md
+                      git commit -m "Update README with daily fact" || true
+                    fi
+                  else
+                    echo "❌ Failed to push after 5 attempts"
+                    exit 1
+                  fi
+                fi
+              done
+            else
+              echo "No changes remain after sync"
             fi
           else
             echo "No changes detected in README.md"
