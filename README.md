@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 9th is the day in 1940 that George Stibitz pioneers the first remote operation of a computer...!</i> $3
+### 🎈 Hey!!😊.. You know, <i>September 9th is the day in 1940 that George Stibitz pioneers the first remote operation of a computer...!</i>
