@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 9th is the day in 1966 that the National Traffic and Motor Vehicle Safety Act is signed into law by U.S. President Lyndon B. Johnson...!</i>  😉
+### 🎈 Hey!!😊.. You know, <i>September 9th is the day in 1926 that the U.S. National Broadcasting Company is formed...!</i>  😉
