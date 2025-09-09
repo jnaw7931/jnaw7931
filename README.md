@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 9th is the day in 2001 that Pärnu methanol tragedy occurs in Pärnu County, Estonia...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 9th is the day in 1970 that a British airliner is hijacked by the Popular Front for the Liberation of Palestine and flown to Dawson's Field in Jordan...!</i>
