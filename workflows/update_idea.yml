@@ -25,7 +25,7 @@ on:
               if (err) throw err;
 
               const updateActivityMd = data.replace(
-                /(Hey!!😊\.\. You know,)(.*)( 😉)/gim,
+                /(Hey!!😊\.\. You know,)(.*)/gim,
                 `$1 ${message} $3`
               );
 
