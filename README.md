@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 10th is the day in 1967 that the people of Gibraltar vote to remain a British dependency rather than becoming part of Spain...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 10th is the day in 1932 that the New York City Subway's third competing subway system, the municipally-owned IND, is opened...!</i>
