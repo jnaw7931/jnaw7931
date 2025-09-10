@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 10th is the day in 1813 that the United States defeats the British Fleet at the Battle of Lake Erie during the War of 1812...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 10th is the day in 1990 that the Basilica of Our Lady of Peace in Yamoussoukro, Côte d'Ivoire – the largest church in Africa is consecrated by Pope John Paul II...!</i>
