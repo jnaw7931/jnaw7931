@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 10th is the day in 1823 that Simón Bolívar is named President of Peru...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 10th is the day in 1509 that an earthquake known as "The Lesser Judgment Day" hits Istanbul...!</i>
