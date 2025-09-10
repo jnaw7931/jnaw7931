@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 10th is the day in 2001 that Antonio da Costa Santos, mayor of Campinas, Brazil was assassinated...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 10th is the day in 2001 that Charles Ingram cheats his way into winning one million pounds on a British version of Who Wants to be a Millionaire...!</i>
