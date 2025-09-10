@@ -9,7 +9,7 @@
   <img width="250px" alt="hello" src="https://user-images.githubusercontent.com/64242868/194348057-04a1f34c-1585-4ab2-bb96-1a8544e7224f.gif" alt="Material Bread logo">
 </p>
 
-<h2 align="center">Happy Tuesday!</h2>
+<h2 align="center">Happy Wednesday!</h2>
 
 <br />
 
@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 9th is the day in 1850 that California is admitted as the thirty-first U.S. state...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 10th is the day in 1967 that the people of Gibraltar vote to remain a British dependency rather than becoming part of Spain...!</i>
