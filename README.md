@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 10th is the day in 1919 that Austria and the Allies sign the Treaty of Saint-Germain recognizing the independence of Poland, Hungary, Czechoslovakia and Yugoslavia...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 10th is the day in 2001 that Antonio da Costa Santos, mayor of Campinas, Brazil was assassinated...!</i>
