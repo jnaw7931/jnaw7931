@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 10th is the day in 2008 that the Large Hadron Collider at CERN, described as the biggest scientific experiment in history is powered up in Geneva, Switzerland...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 10th is the day in 1976 that a British Airways Hawker Siddeley Trident and an Inex-Adria DC-9 collide near Zagreb, Yugoslavia, killing 176...!</i>
