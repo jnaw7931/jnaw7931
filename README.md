@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 11th is the day in 2007 that Russia tests the largest conventional weapon ever, the Father of all bombs...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 11th is the day in 1973 that a coup in Chile headed by General Augusto Pinochet topples the democratically elected president Salvador Allende...!</i>
