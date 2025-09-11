@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 11th is the day in 1226 that the Roman Catholic practice of public adoration of the Blessed Sacrament outside of Mass spreads from monasteries to parishes...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 11th is the day in 1922 that the Treaty of Kars is ratified in Yerevan, Armenia...!</i>
