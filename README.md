@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 11th is the day in 1708 that Charles XII of Sweden stops his march to conquer Moscow outside Smolensk, marking the turning point in the Great Northern War...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 11th is the day in 1972 that the San Francisco Bay Area Rapid Transit system has its opening day of passenger service...!</i>
