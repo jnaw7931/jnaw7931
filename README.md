@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 11th is the day in 1982 that the international forces that were guaranteeing the safety of Palestinian refugees following Israel's 1982 Invasion of Lebanon leave Beirut...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 11th is the day in 1921 that Nahalal, the first moshav in Palestine, is settled as part of a Zionist plan to colonize Palestine and creating a Jewish state, later to be Israel...!</i>
