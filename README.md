@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 11th is the day in 1973 that a coup in Chile headed by General Augusto Pinochet topples the democratically elected president Salvador Allende...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 11th is the day in 1974 that Eastern Air Lines Flight 212 crashes in Charlotte, North Carolina, killing 69 passengers and two crew...!</i>
