@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 11th is the day in 1976 that a group of Croatian nationalists planted a bomb in a coin locker at Grand Central Terminal...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 11th is the day in 1941 that Ground is broken for the construction of The Pentagon...!</i>
