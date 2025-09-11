@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 11th is the day in 1932 that Franciszek Żwirko and Stanisław Wigura, Polish Challenge 1932 winners, are killed when their RWD 6 airplane crashes during a storm...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 11th is the day in 1982 that the international forces that were guaranteeing the safety of Palestinian refugees following Israel's 1982 Invasion of Lebanon leave Beirut...!</i>
