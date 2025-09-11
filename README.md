@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 11th is the day in 1526 that the Ottoman army occupies Buda after the crushing Hungarian defeat in the Battle of Mohács...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 11th is the day in 1708 that Charles XII of Sweden stops his march to conquer Moscow outside Smolensk, marking the turning point in the Great Northern War...!</i>
