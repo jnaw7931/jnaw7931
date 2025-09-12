@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 12th is the day in 1979 that Indonesia is hit with an earthquake that measures 8.1 on the Richter scale...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 12th is the day in 1977 that South African anti-apartheid activist Steve Biko is killed in police custody...!</i>
