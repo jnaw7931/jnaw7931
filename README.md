@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 12th is the day in 1983 that a Wells Fargo depot in West Hartford, Connecticut, United States, is robbed of approximately US$7 million by Los Macheteros...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 12th is the day in 1890 that Salisbury, Rhodesia, is founded...!</i>
