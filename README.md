@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 12th is the day in 1988 that Hurricane Gilbert devastates Jamaica; it turns towards Mexico's Yucatán Peninsula 2 days later, causing an estimated $5 billion in damage...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 12th is the day in 1938 that Adolf Hitler demands autonomy and self-determination for the Germans of the Sudetenland region of Czechoslovakia...!</i>
