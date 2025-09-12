@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 12th is the day in 1940 that Cave paintings are discovered in Lascaux, France...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 12th is the day in 1979 that Indonesia is hit with an earthquake that measures 8.1 on the Richter scale...!</i>
