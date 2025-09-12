@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 12th is the day in 1977 that South African anti-apartheid activist Steve Biko is killed in police custody...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 12th is the day in 1988 that Hurricane Gilbert devastates Jamaica; it turns towards Mexico's Yucatán Peninsula 2 days later, causing an estimated $5 billion in damage...!</i>
