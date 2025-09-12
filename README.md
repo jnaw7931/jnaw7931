@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 12th is the day in 1940 that an explosion at the Hercules Powder Company plant in Kenvil, New Jersey kills 51 people and injures over 200...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 12th is the day in 1846 that Elizabeth Barrett elopes with Robert Browning...!</i>
