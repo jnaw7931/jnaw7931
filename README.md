@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 12th is the day in 1958 that Jack Kilby demonstrates the first integrated circuit...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 12th is the day in 1952 that Strange occurrences, including a monster sighting, take place in Flatwoods, West Virginia...!</i>
