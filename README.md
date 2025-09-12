@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 12th is the day in 1885 that Arbroath 36–0 Bon Accord, a world record scoreline in professional football...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 12th is the day in 1848 that Switzerland becomes a Federal state...!</i>
