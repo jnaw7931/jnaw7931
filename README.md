@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 12th is the day in 1846 that Elizabeth Barrett elopes with Robert Browning...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 12th is the day in 1940 that Cave paintings are discovered in Lascaux, France...!</i>
