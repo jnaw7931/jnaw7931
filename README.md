@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 12th is the day in 1890 that Salisbury, Rhodesia, is founded...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 12th is the day in 1874 that the District of Maple Ridge, British Columbia, Canada is founded...!</i>
