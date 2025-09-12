@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 12th is the day in 1848 that Switzerland becomes a Federal state...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 12th is the day in 1980 that Military coup in Turkey...!</i>
