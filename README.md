@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 12th is the day in 1938 that Adolf Hitler demands autonomy and self-determination for the Germans of the Sudetenland region of Czechoslovakia...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 12th is the day in 1906 that the Newport Transporter Bridge is opened in Newport, South Wales by Viscount Tredegar...!</i>
