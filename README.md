@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 13th is the day in 1948 that Margaret Chase Smith is elected senator, and becomes the first woman to serve in both the U.S. House of Representatives and the United States Senate...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 13th is the day in 1906 that First flight of a fixed-wing aircraft in Europe...!</i>
