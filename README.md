@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 13th is the day in 1501 that Michelangelo begins work on his statue of David...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 13th is the day in 1953 that Nikita Khrushchev is appointed secretary-general of the Communist Party of the Soviet Union...!</i>
