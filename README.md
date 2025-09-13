@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 13th is the day in 1899 that Mackinder, Ollier and Brocherel make the first ascent of Batian (5,199 m – 17,058 ft), the highest peak of Mount Kenya...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 13th is the day in 2008 that Hurricane Ike makes landfall on the Texas Gulf Coast of the United States, causing heavy damage to Galveston Island, Houston and surrounding areas...!</i>
