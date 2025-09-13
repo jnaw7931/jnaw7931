@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 13th is the day in 1899 that Mackinder, Ollier and Brocherel make the first ascent of Batian (5,199 m – 17,058 ft), the highest peak of Mount Kenya...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 13th is the day in 1948 that Margaret Chase Smith is elected senator, and becomes the first woman to serve in both the U.S. House of Representatives and the United States Senate...!</i>
