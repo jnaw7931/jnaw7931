@@ -9,7 +9,7 @@
   <img width="250px" alt="hello" src="https://user-images.githubusercontent.com/64242868/194348057-04a1f34c-1585-4ab2-bb96-1a8544e7224f.gif" alt="Material Bread logo">
 </p>
 
-<h2 align="center">Happy Friday!</h2>
+<h2 align="center">Happy Saturday!</h2>
 
 <br />
 
@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 12th is the day in 1980 that Military coup in Turkey...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 13th is the day in 335 that Emperor Constantine the Great consecrated the Church of the Holy Sepulchre in Jerusalem...!</i>
