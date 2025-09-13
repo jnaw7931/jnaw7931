@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 13th is the day in 585 BC that Lucius Tarquinius Priscus, king of Rome, celebrates a triumph for his victories over the Sabines, and the surrender of Collatia...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 13th is the day in 1922 that the temperature at 'Aziziya, Libya reaches a world record 57.8 °C (136.0 °F)...!</i>
