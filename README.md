@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 13th is the day in 1953 that Nikita Khrushchev is appointed secretary-general of the Communist Party of the Soviet Union...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 13th is the day in 1504 that Queen Isabella and King Ferdinand issue a Royal Warrant for the construction of a Royal Chapel (Capilla Real) to be built...!</i>
