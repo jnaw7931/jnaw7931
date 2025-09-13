@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 13th is the day in 1900 that Filipino resistance fighters defeat a small American column in the Battle of Pulang Lupa, during the Philippine-American War...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 13th is the day in 1964 that South Vietnamese Generals Lam Van Phat and Duong Van Duc fail in a coup attempt against General Nguyen Khanh...!</i>
