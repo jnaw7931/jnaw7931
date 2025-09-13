@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 13th is the day in 1906 that First flight of a fixed-wing aircraft in Europe...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 13th is the day in 2008 that Delhi, India, is hit by a series of bomb blasts, resulting in 30 deaths and 130 injuries...!</i>
