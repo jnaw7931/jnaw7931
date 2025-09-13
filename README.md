@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 13th is the day in 1850 that First ascent of Piz Bernina, the highest summit of the eastern Alps...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 13th is the day in 1943 that the Municipal Theatre of Corfu is destroyed during an aerial bombardment by Luftwaffe...!</i>
