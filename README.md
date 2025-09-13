@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 13th is the day in 509 BC that the Temple of Jupiter Optimus Maximus on Rome's Capitoline Hill is dedicated on the ides of September...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 13th is the day in 1899 that Mackinder, Ollier and Brocherel make the first ascent of Batian (5,199 m – 17,058 ft), the highest peak of Mount Kenya...!</i>
