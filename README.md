@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 13th is the day in 2008 that Delhi, India, is hit by a series of bomb blasts, resulting in 30 deaths and 130 injuries...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 13th is the day in 585 BC that Lucius Tarquinius Priscus, king of Rome, celebrates a triumph for his victories over the Sabines, and the surrender of Collatia...!</i>
