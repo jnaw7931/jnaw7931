@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 13th is the day in 2008 that Delhi, India, is hit by a series of bomb blasts, resulting in 30 deaths and 130 injuries...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 13th is the day in 1900 that Filipino resistance fighters defeat a small American column in the Battle of Pulang Lupa, during the Philippine-American War...!</i>
