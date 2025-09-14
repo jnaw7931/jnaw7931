@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 14th is the day in 1999 that Kiribati, Nauru and Tonga join the United Nations...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 14th is the day in 1959 that the Soviet probe Luna 2 crashes onto the Moon, becoming the first man-made object to reach it...!</i>
