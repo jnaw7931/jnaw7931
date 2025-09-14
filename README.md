@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 14th is the day in 1741 that George Frideric Handel completes his oratorio Messiah...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 14th is the day in 1969 that the US Selective Service selects September 14 as the First Draft Lottery Date...!</i>
