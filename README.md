@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 14th is the day in 1682 that Bishop Gore School, one of the oldest schools in Wales, is founded...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 14th is the day in 1992 that the Constitutional Court of Bosnia and Herzegovina declares the breakaway Croatian Republic of Herzeg-Bosnia to be illegal...!</i>
