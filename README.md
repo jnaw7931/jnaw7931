@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 14th is the day in 1999 that Kiribati, Nauru and Tonga join the United Nations...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 14th is the day in 1901 that President of the United States William McKinley dies after an assassination attempt on September 6, and is succeeded by Theodore Roosevelt...!</i>
