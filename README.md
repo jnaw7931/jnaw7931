@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 14th is the day in 1180 that Battle of Ishibashiyama in Japan...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 14th is the day in 2000 that Microsoft releases Windows Me...!</i>
