@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 15th is the day in 1947 that RCA releases the 12AX7 vacuum tube...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 15th is the day in 2008 that Lehman Brothers files for Chapter 11 bankruptcy, the largest bankruptcy filing in U.S. history...!</i>
