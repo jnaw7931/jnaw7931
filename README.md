@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 15th is the day in 1947 that RCA releases the 12AX7 vacuum tube...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 15th is the day in 1948 that the F-86 Sabre sets the world aircraft speed record at 671 miles per hour (1,080 km/h)...!</i>
