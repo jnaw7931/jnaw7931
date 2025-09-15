@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 15th is the day in 1812 that the French army under Napoleon reaches the Kremlin in Moscow...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 15th is the day in 1947 that RCA releases the 12AX7 vacuum tube...!</i>
