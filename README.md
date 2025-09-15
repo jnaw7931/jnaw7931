@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 15th is the day in 2004 that National Hockey League commissioner Gary Bettman announces lockout of the players union and cessation of operations by the NHL head office...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 15th is the day in 1981 that Vanuatu becomes a member of the United Nations...!</i>
