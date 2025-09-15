@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 15th is the day in 1993 that Liechtenstein Prince Hans-Adam II disbands Parliament...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 15th is the day in 1962 that the Soviet ship Poltava heads toward Cuba, one of the events that sets into motion the Cuban Missile Crisis...!</i>
