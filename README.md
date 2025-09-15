@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 15th is the day in 1945 that a hurricane in southern Florida and the Bahamas destroys 366 planes and 25 blimps at NAS Richmond...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 15th is the day in 994 that Major Fatimid victory over the Byzantine Empire at the Battle of the Orontes...!</i>
