@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 16th is the day in 1959 that the first successful photocopier, the Xerox 914, is introduced in a demonstration on live television from New York City...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 16th is the day in 1971 that Typhoon Nancy, with possibly the strongest winds ever measured in a tropical cyclone, makes landfall in Osaka, Japan, killing 173 people...!</i>
