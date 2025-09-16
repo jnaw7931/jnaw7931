@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 16th is the day in 1908 that the General Motors Corporation is founded...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 16th is the day in 1975 that Papua New Guinea gains its independence from Australia...!</i>
