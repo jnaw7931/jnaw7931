@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 16th is the day in 1980 that Saint Vincent and the Grenadines join the United Nations...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 16th is the day in 1975 that the Cape Verde Islands, Mozambique, and Sao Tome and Principe join the United Nations...!</i>
