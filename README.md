@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 16th is the day in 1971 that Typhoon Nancy, with possibly the strongest winds ever measured in a tropical cyclone, makes landfall in Osaka, Japan, killing 173 people...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 16th is the day in 1991 that the trial of the deposed Panamanian dictator Manuel Noriega begins in the United States...!</i>
