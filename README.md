@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 16th is the day in 1991 that the trial of the deposed Panamanian dictator Manuel Noriega begins in the United States...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 16th is the day in 1908 that the General Motors Corporation is founded...!</i>
