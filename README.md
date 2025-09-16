@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 16th is the day in 1400 that Owain Glyndŵr is declared Prince of Wales by his followers...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 16th is the day in 1959 that the first successful photocopier, the Xerox 914, is introduced in a demonstration on live television from New York City...!</i>
