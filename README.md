@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 16th is the day in 1971 that Typhoon Nancy, with possibly the strongest winds ever measured in a tropical cyclone, makes landfall in Osaka, Japan, killing 173 people...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 16th is the day in 1978 that an earthquake measuring 7.5 to 7.9 on the Richter scale hits the city of Tabas, Iran killing about 25,000 people...!</i>
