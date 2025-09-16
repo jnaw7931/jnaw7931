@@ -9,7 +9,7 @@
   <img width="250px" alt="hello" src="https://user-images.githubusercontent.com/64242868/194348057-04a1f34c-1585-4ab2-bb96-1a8544e7224f.gif" alt="Material Bread logo">
 </p>
 
-<h2 align="center">Happy Monday!</h2>
+<h2 align="center">Happy Tuesday!</h2>
 
 <br />
 
@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 15th is the day in 1983 that Israeli premier Menachem Begin resigns...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 16th is the day in 1955 that Juan Perón is deposed as the ruler of Argentina...!</i>
