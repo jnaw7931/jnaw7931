@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 17th is the day in 1776 that the Presidio of San Francisco is founded in New Spain...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 17th is the day in 1908 that the Wright Flyer flown by Orville Wright, with Lieutenant Thomas Selfridge as passenger, crashes killing Selfridge...!</i>
