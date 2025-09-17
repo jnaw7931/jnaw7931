@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 17th is the day in 1949 that the Canadian steamship SS Noronic burns in Toronto Harbour with the loss of over 118 lives...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 17th is the day in 2001 that the New York Stock Exchange reopens for trading after the September 11 Attacks, the longest closure since the Great Depression...!</i>
