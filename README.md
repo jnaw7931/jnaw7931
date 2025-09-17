@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 17th is the day in 1176 that the Battle of Myriokephalon is fought...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 17th is the day in 1894 that the Battle of Yalu River, the largest naval engagement of the First Sino-Japanese War...!</i>
