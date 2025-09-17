@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 17th is the day in 1928 that the Okeechobee Hurricane strikes southeastern Florida, killing upwards of 2,500 people...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 17th is the day in 1814 that Francis Scott Key finishes his poem "Defence of Fort McHenry", later to be the lyrics of "The Star-Spangled Banner"...!</i>
