@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 17th is the day in 1577 that the Peace of Bergerac is signed between Henry III of France and the Huguenots...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 17th is the day in 1814 that Francis Scott Key finishes his poem "Defence of Fort McHenry", later to be the lyrics of "The Star-Spangled Banner"...!</i>
