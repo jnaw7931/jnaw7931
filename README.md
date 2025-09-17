@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 17th is the day in 1631 that Sweden wins a major victory at the Battle of Breitenfeld against the Holy Roman Empire during the Thirty Years War...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 17th is the day in 1776 that the Presidio of San Francisco is founded in New Spain...!</i>
