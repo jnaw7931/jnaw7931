@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 18th is the day in 1879 that the Blackpool Illuminations are switched on for the first time...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 18th is the day in 1947 that the United States Air Force becomes an independent branch of the United States armed forces...!</i>
