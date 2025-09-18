@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 18th is the day in 1964 that North Vietnamese Army begins infiltration of South Vietnam...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 18th is the day in 1812 that the 1812 Fire of Moscow dies down after destroying more than three quarters of the city...!</i>
