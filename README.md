@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 18th is the day in 1984 that Joe Kittinger completes the first solo balloon crossing of the Atlantic...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 18th is the day in 1980 that Soyuz 38 carries 2 cosmonauts (including 1 Cuban) to Salyut 6 space station...!</i>
