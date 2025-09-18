@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 18th is the day in 1812 that the 1812 Fire of Moscow dies down after destroying more than three quarters of the city...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 18th is the day in 1906 that a typhoon with tsunami kills an estimated 10,000 people in Hong Kong...!</i>
