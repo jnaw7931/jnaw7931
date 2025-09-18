@@ -9,7 +9,7 @@
   <img width="250px" alt="hello" src="https://user-images.githubusercontent.com/64242868/194348057-04a1f34c-1585-4ab2-bb96-1a8544e7224f.gif" alt="Material Bread logo">
 </p>
 
-<h2 align="center">Happy Wednesday!</h2>
+<h2 align="center">Happy Thursday!</h2>
 
 <br />
 
@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 17th is the day in 1976 that the first Space Shuttle, Enterprise, is unveiled by NASA...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 18th is the day in 1931 that the Mukden Incident gives Japan the pretext to invade and occupy Manchuria...!</i>
