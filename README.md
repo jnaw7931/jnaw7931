@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 18th is the day in 1947 that the United States Air Force becomes an independent branch of the United States armed forces...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 18th is the day in 2007 that Pervez Musharraf announces that he will step down as army chief and restore civilian rule to Pakistan, but only after he is re-elected president...!</i>
