@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 18th is the day in 1919 that Fritz Pollard becomes the first African-American to play professional football for a major team, the Akron Pros...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 18th is the day in 1964 that North Vietnamese Army begins infiltration of South Vietnam...!</i>
