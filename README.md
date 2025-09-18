@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 18th is the day in 1984 that Joe Kittinger completes the first solo balloon crossing of the Atlantic...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 18th is the day in 1991 that Yugoslavia begins a naval blockade of 7 Adriatic port cities...!</i>
