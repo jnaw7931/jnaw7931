@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 18th is the day in 1948 that Communist Madiun uprising in Dutch Indies...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 18th is the day in 2007 that Buddhist monks join anti-government protesters in Myanmar, starting what some called the Saffron Revolution...!</i>
