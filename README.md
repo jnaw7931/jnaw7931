@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 18th is the day in 96 that Nerva is proclaimed Roman Emperor after Domitian is assassinated...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 18th is the day in 1180 that Philip Augustus becomes king of France...!</i>
