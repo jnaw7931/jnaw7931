@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 19th is the day in 335 that Flavius Dalmatius is raised to the rank of Caesar by his uncle Constantine I...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 19th is the day in 1985 that a strong earthquake kills thousands and destroys about 400 buildings in Mexico City...!</i>
