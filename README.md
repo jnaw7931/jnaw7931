@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 19th is the day in 1970 that the first Glastonbury Festival is held at Michael Eavis's farm in Glastonbury, United Kingdom...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 19th is the day in 1676 that Jamestown is burned to the ground by the forces of Nathaniel Bacon during Bacon's Rebellion...!</i>
