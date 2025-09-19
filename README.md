@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 19th is the day in 1796 that George Washington's farewell address is printed across America as an open letter to the public...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 19th is the day in 1989 that a terrorist bomb explodes UTA Flight 772 in mid-air above the Tùnùrù Desert, Niger, killing 171...!</i>
