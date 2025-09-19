@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 19th is the day in 1934 that Bruno Hauptmann is arrested for the kidnap and murder of Charles Lindbergh Jr....!</i>
+### 🎈 Hey!!😊.. You know, <i>September 19th is the day in 2010 that the leaking oil well in the Deepwater Horizon oil spill is sealed...!</i>
