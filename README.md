@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 19th is the day in 1945 that Lord Haw Haw (William Joyce) is sentenced to death in London...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 19th is the day in 1796 that George Washington's farewell address is printed across America as an open letter to the public...!</i>
