@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 19th is the day in 1983 that Saint Kitts and Nevis gains its independence...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 19th is the day in 1957 that First American underground nuclear bomb test (part of Operation Plumbbob)...!</i>
