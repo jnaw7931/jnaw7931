@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 20th is the day in 2011 that the United States ends its "Don't Ask, Don't Tell" policy, allowing gay men and women to serve openly for the first time...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 20th is the day in 1910 that the ocean liner SS France, later known as the "Versailles of the Atlantic", is launched...!</i>
