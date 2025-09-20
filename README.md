@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 20th is the day in 1984 that a suicide bomber in a car attacks the U.S. embassy in Beirut, Lebanon, killing twenty-two people...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 20th is the day in 1961 that Greek general Konstantinos Dovas becomes Prime Minister of Greece...!</i>
