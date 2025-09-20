@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 20th is the day in 1870 that Bersaglieri corps enter Rome through the Porta Pia and complete the unification of Italy...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 20th is the day in 1187 that Saladin begins the Siege of Jerusalem...!</i>
