@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 20th is the day in 2002 that the Kolka-Karmadon rock/ice slide...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 20th is the day in 1860 that the Prince of Wales (later King Edward VII of the United Kingdom) visits the United States...!</i>
