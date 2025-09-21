@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 21st is the day in 1961 that Maiden flight of the CH-47 Chinook transportation helicopter...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 21st is the day in 1435 that an agreement between Charles VII of France and Philip the Good ends the partnership between the English and Burgundy in Hundred Years' War...!</i>
