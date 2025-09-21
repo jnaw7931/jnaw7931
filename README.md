@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 21st is the day in 1934 that a large typhoon hits western Honshū, Japan, killing 3,036 people...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 21st is the day in 1961 that Maiden flight of the CH-47 Chinook transportation helicopter...!</i>
