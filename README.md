@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
-### 🎈 Hey!!😊.. You know, <i>September 21st is the day in 2003 that Galileo mission is terminated by sending the probe into Jupiter's atmosphere, where it is crushed by the pressure at the lower altitudes...!</i>
+### 🎈 Hey!!😊.. You know, <i>September 21st is the day in 1934 that a large typhoon hits western Honshū, Japan, killing 3,036 people...!</i>
