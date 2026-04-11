@@ -9,7 +9,7 @@
   <img width="250px" alt="hello" src="https://user-images.githubusercontent.com/64242868/194348057-04a1f34c-1585-4ab2-bb96-1a8544e7224f.gif" alt="Material Bread logo">
 </p>
 
-<h2 align="center">Happy Friday!</h2>
+<h2 align="center">Happy Saturday!</h2>
 
 <br />
 
@@ -29,6 +29,13 @@
 - ⚡ Fun fact: I'm updating this README file with a GitHub workflow!!
 
 ### 🎈 Hey!!😊.. You know, <i><html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+..!</i>
 <head><title>301 Moved Permanently</title></head>
 <body>
 <center><h1>301 Moved Permanently</h1></center>
